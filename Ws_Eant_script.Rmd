@@ -1,0 +1,212 @@
+---
+title: "Workshop de Data Analytics con R"
+output: html_notebook
+---
+
+1. Importar el archivo
+
+```{r}
+
+df=read.csv('https://raw.githubusercontent.com/mwaskom/seaborn-data/master/tips.csv')
+
+```
+
+2. Obtener un resumen de las variables del dataset
+```{r}
+
+```
+
+3. Importamos los paquetes que vamos a utilizar
+```{r}
+#install.packages('ggplot2')
+library(ggplot2)
+library(plotly)
+```
+
+
+4. Invocamos a la función ggplot
+```{r}
+
+```
+
+
+5. Generamos los ejes x e y, donde:
+* x es total_bill
+* y es tip
+```{r}
+
+```
+
+
+6. Generamos un scatterplot
+```{r}
+
+```
+
+7. Ahora vamos a cambiar los colores de los puntos
+```{r}
+
+```
+
+8. Cambiemos los colores en base a otra variable categórica sex
+```{r}
+
+
+```
+
+9. Ahora si cambiemos el color en base a una variable categórica sex
+```{r}
+
+```
+
+10. Cambiemos la forma del punto en base a la variable smoker
+```{r}
+
+
+```
+
+11. Cambiemos el tamaño del punto
+```{r}
+
+
+```
+
+
+12.Cambiemos la transparencia del punto
+```{r}
+
+
+```
+
+
+13. Ahora agregamos una capa más de geometria
+```{r}
+
+
+```
+
+14. Cambiemos los títulos a los ejes y agreguemos títulos, subtítulos y epígrafe.
+```{r}
+
+```
+
+15. Calculemos el promedio de la variable tip y generemos una intercepción en el eje y  
+```{r}
+
+
+```
+
+
+16. Cambiemos el background del plot
+```{r}
+
+
+```
+
+# Barplot
+El barplot es una gráfica de barras,donde en el eje x se coloca una variable categórica y las frecuencias en el eje y. 
+Para cada factor se genera una barra con alturas proporcionales a la frecuencias
+
+1. Generar un barplot donde en el eje x se encuentre la variable day
+
+```{r}
+
+
+
+```
+
+2. Asignar un color en base a la variable day
+```{r}
+
+
+```
+
+3. Eliminar las leyendas
+```{r}
+
+
+
+```
+
+4. Cambiemos el color en base a la variable sex
+```{r}
+
+
+```
+
+
+5. Cambiemos la forma en la que se visualizan las barras
+```{r}
+
+
+
+```
+
+6. Giremos los ejes
+```{r}
+
+
+```
+
+7. Ahora vamos un punto para cada observación, donde la variable x es day y la variable y es tip, asignar el color en base a la variable time
+```{r}
+
+
+```
+
+# Boxplot
+El boxplot es un gráfico para visualizar la distribución de una variable numérica  usando cuartiles.
+
+1. Generemos nuestro boxplot donde en el x este la variable day y en el eje y total_bill
+
+```{r}
+
+
+
+```
+
+2. Cambiemos los colores de cada una de las cajas
+```{r}
+
+
+
+```
+
+3. Generemos un gráfico de violín
+```{r}
+
+
+
+```
+
+
+
+**Plotly** proporciona herramientas de gráficos, análisis y estadísticas, así como paquetes de código abierto con implementación de gráficos interactivos para Python , R , MATLAB , Perl , Julia, Arduino y REST .
+Para conocer más de la implementación de Ploty en R: https://plot.ly/r/
+
+1. Generar un plotly basado en un boxplot
+```{r}
+
+
+```
+
+2. Generar un plotly basado en un scatterplot
+```{r}
+
+
+```
+
+
+```{r}
+
+```
+
+
+# Bonus: Animación
+```{r}
+
+ 
+```
+
+
+
