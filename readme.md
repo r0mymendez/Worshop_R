@@ -20,4 +20,5 @@ Es necesario que traigas una notebook propia y traer instalados los programas R 
 Aqui esta el [link](https://eant.tech/escuela-de-ciencias-de-datos/cursos/taller-introduccion-a-data-analytics-r) al workshop.
 
 ![plot](https://i.ibb.co/bXWTTy3/000003.png)
-![plot1](https://i.ibb.co/bXWTTy3/000003-1.png)
+![plot1](https://i.ibb.co/5sRc97s/000003-1.png)
+
