@@ -2,6 +2,8 @@
 
 La Escuela de Ciencia de Datos de EANT te invita a participar de este taller abierto, gratuito y online! destinado a todos los que quieran empezar a realizar sus primeras experiencias en el trabajo con herramientas de programación para el desarrollo de analítica y visualización de datos.
 
+Realizamos una actividad online con [Kari Bartolome](https://github.com/karbartolome/) y [Juan Gago](https://github.com/JuanGagoAnalytics)
+
 **No es necesario que tengas conocimientos previos de programación**, pero si tenemos un solo requisito: el de que tengas la energía y la determinación para aprender y superarte permanentemente.
 
 **Durante la jornada vas a aprender:**
@@ -21,4 +23,7 @@ Aqui esta el [link](https://eant.tech/escuela-de-ciencias-de-datos/cursos/taller
 
 ![plot](https://i.ibb.co/bXWTTy3/000003.png)
 ![plot1](https://i.ibb.co/5sRc97s/000003-1.png)
+
+
+
 
